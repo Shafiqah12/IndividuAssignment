@@ -26,9 +26,14 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-My Name : NURUL AKMAL SHAFIQAH BINTI MOHD ZAIDI
-My Student ID : 2023647684
-My Group : T5CDCS2703B1
-Lecture Name : Sir Atif
-Project Background : FriendlyChat in Firebase And Angular
-Discussion : I got many problem and I had learned so many thing in this class. I got picture loading problem, angular version problem. I also got to learn how to solve the problem of picture profile, solve the problem of angular version and so many thing that I had learned.
+## My Name : NURUL AKMAL SHAFIQAH BINTI MOHD ZAIDI
+
+## My Student ID : 2023647684
+
+## My Group : T5CDCS2703B1
+
+## Lecture Name : Sir  Muhammad Atif Ramlan
+
+## Project Background : FriendlyChat in Firebase And Angular
+
+## Discussion : I got many problem and I had learned so many thing in this class. I got picture loading problem, angular version problem. I also got to learn how to solve the problem of picture profile, solve the problem of angular version and so many thing that I had learned.
